@@ -19,7 +19,7 @@ The program takes the initial state and end state in the format `(M C B)`, where
 - `C` is the number of Cannibals on the left side,
 - `B` is the position of the boat (`L` for Left side, `R` for Right side).
 
-### Example Input (First state entered will be the initial state, second state entered will be the end state)
+### Example Input
 (3 3 L) (0 0 R)
 
 ## Program Execution
